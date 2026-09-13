@@ -73,3 +73,4 @@ music-app/
 - GUI
 - Packaging
 - Tests
+- Local file playback and directory browsing
